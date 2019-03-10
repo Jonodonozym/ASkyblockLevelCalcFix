@@ -1,0 +1,6 @@
+main: jdz.sbLevelFix.LevelFix
+name: SBLevelFix
+version: 1.0
+author: Jonodonozym
+description: Fixes ASkyblock level calc for islands over 200 chunks
+depend: [ASkyBlock]
